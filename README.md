@@ -7,12 +7,12 @@ Hi, I'm Manuel and this is my Cyber Security Portfolio. Recently, I completed th
 
 Additionally, it has paved the way for me to pursue one of the entry-level following roles:
 
-Cybersecurity Analyst
-Security Analyst
-SOC Analyst
-Information Security Analyst
-IT Security Analyst
-Cyber Defense Analyst
++ Cybersecurity Analyst 
++ Security Analyst
++ SOC Analyst
++ Information Security Analyst
++ IT Security Analyst
++ Cyber Defense Analyst
 
 
 # Project Overview 
