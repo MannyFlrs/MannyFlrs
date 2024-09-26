@@ -1,5 +1,7 @@
 ## [Manuel Flores] 
 
+<a href="https://linkedin.com/in/manuelflores998"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 # Portfolio
 
 Hi, I'm Manuel and this is my Cyber Security Portfolio. Recently, I completed the CompTIA Security+ Certificate to pursue my passion for technology and Cybersecurity. The Security+ certificate has prepared me for industry-ready jobs. I am currently seeking a position that allows me to contribute to the dynamic field of cybersecurity. My ultimatw goal is to join a forward-thinking organization as a security operation center (SOC) analyst or cyber security analyst where my skills and enthusiasm for security can make a meaningful impact. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats.
