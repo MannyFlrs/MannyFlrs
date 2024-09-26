@@ -20,7 +20,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| SOAR-EDR Setup | Automation, Integration, Incident Response  | LimaCharlie, Tines, VirtualBox|  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">SOAR-EDR</a>   |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
