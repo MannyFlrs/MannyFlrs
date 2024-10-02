@@ -29,7 +29,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | SOAR-EDR Setup | Automation, Integration, Incident Response  | LimaCharlie, Tines, VirtualBox|  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">SOAR-EDR</a>   |
-|  Honeypot Setup and Installation               |   Monitoring and Logging, Threat Intelligence, Risk Assessment, System Hardening                                    |                 |  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">Honeypot</a>               |
+|  Honeypot Setup and Installation               |   Monitoring and Logging, Threat Intelligence, Risk Assessment, System Hardening                                    |                 |  <a href="https://github.com/MannyFlrs/Honeypot-Setup-and-Installation">Honeypot</a>               |
 |                 |                                       |                 |                 |
 
 
