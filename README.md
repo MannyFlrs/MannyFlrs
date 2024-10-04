@@ -29,7 +29,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | SOAR-EDR  | Automation, Integration, Incident Response  | LimaCharlie, Tines, VirtualBox|  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">SOAR-EDR</a>   |
-|  Home-SOC               |   Security Information and Event Management, Threat Intelligence, Incident Handling, Log Management                                  |       Azure          |  <a href="https://github.com/MannyFlrs/Home-SOC">Home-SOC</a>               |
+|  Home-SOC               |   Security Information and Event Management (SIEM), Threat Intelligence, Incident Handling, Log Management                                  |       Azure          |  <a href="https://github.com/MannyFlrs/Home-SOC">Home-SOC</a>               |
 |                 |                                       |                 |                 |
 
 
