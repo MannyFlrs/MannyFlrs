@@ -38,4 +38,4 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                06/07/2024                |     [Credly Badge](https://www.credly.com/badges/a5827888-d7f0-425b-84bb-d2a846370ea1/public_url)        | 
+| CompTIA Security+     |                06/07/2024                |     [CompTIA Security+](https://www.credly.com/badges/a5827888-d7f0-425b-84bb-d2a846370ea1/public_url)        | 
