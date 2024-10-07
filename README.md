@@ -4,7 +4,7 @@
 
 # Portfolio
 
-Hi, I'm Manuel and this is my Cyber Security Portfolio. Recently, I completed the CompTIA Security+ Certificate to pursue my passion for technology and Cybersecurity. The Security+ certificate has prepared me for industry-ready jobs. I am currently seeking a position that allows me to contribute to the dynamic field of cybersecurity. My ultimate goal is to join a forward-thinking organization as a Security Operation Center (SOC) Analyst or Cyber Security Analyst where my skills and enthusiasm for security can make a meaningful impact. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of now I have one project completed, but I'm working on another and plan to complete more in the future.
+Hi, I'm Manuel and this is my Cyber Security Portfolio. Recently, I completed the CompTIA Security+ Certificate to pursue my passion for technology and Cybersecurity. The Security+ certificate has prepared me for industry-ready jobs. I am currently seeking a position that allows me to contribute to the dynamic field of cybersecurity. My ultimate goal is to join a forward-thinking organization as a Security Operation Center (SOC) Analyst or Cyber Security Analyst where my skills and enthusiasm for security can make a meaningful impact. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. 
 
 Whe Security+ certifcate, I've gained a some skills such as: 
 
