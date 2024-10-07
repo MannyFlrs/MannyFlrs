@@ -30,7 +30,7 @@ As of now I have one project completed, but I'm working on another and plan to c
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | SOAR-EDR  | Automation, Integration, Incident Response  | LimaCharlie, Tines, VirtualBox|  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">SOAR-EDR</a>   |
-|  Active Directory               |   Security Information and Event Management (SIEM), Threat Intelligence, Incident Handling, Log Management                                  |       Azure          |  <a href="https://github.com/MannyFlrs/Home-SOC">Active Directory</a>               |
+|  Active Directory               |   Audit & Monitoring, Multi-Factor Authentication (MFA), Encryption and Secure Protocols                                  |       Splunk, Kali Linux, Virtual Box          |  <a href="https://github.com/MannyFlrs/Home-SOC">Active Directory</a>               |
 |                 |                                       |                 |                 |
 
 
