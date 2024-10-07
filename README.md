@@ -26,6 +26,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 
 # Project Overview 
+As of now I have one project completed, but I'm working on another and plan to complete more in the future.
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | SOAR-EDR  | Automation, Integration, Incident Response  | LimaCharlie, Tines, VirtualBox|  <a href="https://github.com/MannyFlrs/SOAR-EDR-Setup/tree/main">SOAR-EDR</a>   |
