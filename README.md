@@ -35,7 +35,6 @@ As of now I have one project completed, but I'm working on another and plan to c
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
