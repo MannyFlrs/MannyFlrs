@@ -15,7 +15,7 @@ Whe Security+ certifcate, I've gained a some skills such as:
 + Physical Security 
 + Compliance and Governance
 
-Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+Additionally, it has paved the way for me to pursue one of the following entry-level roles:
 
 + Cybersecurity Analyst 
 + Security Analyst
